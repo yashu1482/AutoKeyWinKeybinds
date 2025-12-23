@@ -1,5 +1,7 @@
 A Simple Autokey Script to Rebind Win key and Win + Shortcuts.
-
+---
+Requirements - 
+AutoHotkey version 2.0 or Higher
 ---
 Win Rebind to Prevent Windows key from opening Start menu.
 
