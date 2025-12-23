@@ -4,6 +4,7 @@ Requirements -
 AutoHotkey version 2.0 or Higher
 
 Important - Script needs to be run as Admin.
+
 ---
 Win Rebind to Prevent Windows key from opening Start menu.
 
