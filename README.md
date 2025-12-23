@@ -46,3 +46,10 @@ Steps for automatic startup -
 - Type shell:startup and press enter
 - It will open Startup folder
 - Paste Autokey Winkey Rebinds.ahk Script in Startup folder
+
+---
+Usefull links
+
+AutoHotkey v2 Official Website - https://www.autohotkey.com/
+AutoHotkey v2 Docs - https://www.autohotkey.com/docs/v2/index.htm
+
