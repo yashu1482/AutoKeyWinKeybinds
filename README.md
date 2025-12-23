@@ -2,6 +2,8 @@ A Simple Autokey Script to Rebind Win key and Win + Shortcuts.
 ---
 Requirements - 
 AutoHotkey version 2.0 or Higher
+
+Important - Script needs to be run as Admin.
 ---
 Win Rebind to Prevent Windows key from opening Start menu.
 
@@ -27,3 +29,17 @@ Personal Keybinds
 
 3. Win + Z to Scroll Down
 
+---
+Optional but recommended
+
+you can Copy and Paste this script in windows startup folder so it runs automatically when u log in.
+
+When u login it asks you UAC promt to run as admin.
+
+Steps for automatic startup -
+
+- Copy Autokey Winkey Rebinds.ahk Script
+- Win + R to open Run
+- Type shell:startup and press enter
+- It will open Startup folder
+- Paste Autokey Winkey Rebinds.ahk Script in Startup folder
