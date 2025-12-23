@@ -1,9 +1,8 @@
 A Simple Autokey Script to Rebind Win key and Win + Shortcuts.
 
 ---
-Prevent Windows key from opening Start menu.
+Win Rebind to Prevent Windows key from opening Start menu.
 
----
 Window Management
 
 1. Win + Tab to Alt + Tab
