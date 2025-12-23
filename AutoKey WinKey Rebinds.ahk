@@ -4,7 +4,6 @@
 ;=================================================================================================
 ;RUN AS ADMIN
 
-; --- 1. Force Run as Administrator ---
 if !A_IsAdmin
 {
     try
@@ -13,11 +12,11 @@ if !A_IsAdmin
     }
     ExitApp
 }
-
 ;=================================================================================================
 
-; 1. Tell Windows the "Mask" key is an unassigned virtual key
+; Tell Windows the "Mask" key is an unassigned virtual key
 ; This prevents the Start Menu from appearing when Win is released.
+
 A_MenuMaskKey := "vkE8"
 InstallKeybdHook(true)              
 
