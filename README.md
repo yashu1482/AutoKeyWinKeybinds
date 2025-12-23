@@ -30,6 +30,8 @@ Personal Keybinds
 
 3. Win + Z to Scroll Down
 
+If you dont want these custom keybinds, Remove Custom keybind section in Autokey Winkey Rebinds.ahk script.
+
 ---
 Optional but recommended
 

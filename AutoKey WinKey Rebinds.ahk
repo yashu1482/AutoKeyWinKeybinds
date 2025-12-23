@@ -95,6 +95,9 @@ ProcessSetPriority "High"
 *#e::WinMinimize "A"    ; Win + E: Minimize Active Window
 
 ;----------------------------------------------------------------------------------
+
+; REMOVE EVERYTHING BELOW IF YOU DONT NEED CUSTOM KEYBINDS
+; OR ADD SEMICOLON AT START OF EVERY LINE BELOW
 ;==================================================================================
 ; CUSTOM KEYBINDS
 ;==================================================================================
