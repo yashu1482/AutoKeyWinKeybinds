@@ -102,18 +102,18 @@ ProcessSetPriority "High"
 ; CUSTOM KEYBINDS
 ;==================================================================================
 
-; 1. --- Scrolling (Win + A / Win + Z) ---
-*#a::Click "WheelUp"    ; Scroll Up
-*#z::Click "WheelDown"  ; Scroll Down
+; 1. --- Scrolling (Win + Z / Win + X) ---
+*#z::Click "WheelUp"    ; Scroll Up
+*#x::Click "WheelDown"  ; Scroll Down
 
 ;-----------------------------------------------------------------------------------
 
 ;-------------------------------------------------------------------------------------
 
-;2. --- Win + Z and C = Ctrl + Shift + Tab and Ctrl + Tab (For Edge Tab Switching)---
+;2. --- Win + A and S = Ctrl + Shift + Tab and Ctrl + Tab (For Edge Tab Switching)---
 
-$#x::Send "^+{Tab}" ; Ctrl + Shift + Tab
-$#c::Send "^{Tab}"  ; Ctrl + Tab
+$#a::Send "^+{Tab}" ; Ctrl + Shift + Tab
+$#s::Send "^{Tab}"  ; Ctrl + Tab
 
 ;--------------------------------------------------------------------------------------
 
