@@ -108,7 +108,16 @@ ProcessSetPriority "High"
 
 ;-----------------------------------------------------------------------------------
 
-; 2. --- Menu Key + WASD = Arrows --- 
+;-------------------------------------------------------------------------------------
+
+;2. --- Win + Z and C = Ctrl + Shift + Tab and Ctrl + Tab (For Edge Tab Switching)---
+
+$#x::Send "^+{Tab}" ; Ctrl + Shift + Tab
+$#c::Send "^{Tab}"  ; Ctrl + Tab
+
+;--------------------------------------------------------------------------------------
+
+; 3. --- Menu Key + WASD = Arrows --- 
 
 #HotIf GetKeyState("AppsKey", "P")
 ; WASD = Arrows
@@ -121,3 +130,4 @@ d::Right
 
 ; Prevent the Menu Key from opening the right-click menu when you use it as a modifier
 *AppsKey::Return
+

@@ -26,9 +26,12 @@ Personal Keybinds
 
 1. AppsKey + WASD to Arrow Keys
 
-2. Win + A to Scroll Up  
+2. Win + A to Scroll Up  and Win + Z to Scroll Down
 
-3. Win + Z to Scroll Down
+3. Win + X to Crtl + Shift + Tab and Win + C to Crtl + Tab 
+
+- These can be usefull for switching tabs in Browsers and IDE's.
+
 
 If you dont want these custom keybinds, Remove Custom keybind section in Autokey Winkey Rebinds.ahk script.
 
