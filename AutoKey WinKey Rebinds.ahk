@@ -67,7 +67,7 @@ ProcessSetPriority "High"
 
 ; --- 3. Snap Windows with Delay --- (Win + Q)
 
-*#w::
+*#q::
 {
     Send "{LWin Down}{Right}"
     Sleep 2 ; 2mms delay to let Windows process the snap
@@ -81,7 +81,7 @@ ProcessSetPriority "High"
     ; Check the state of the active window
     ; -1: Minimized, 0: Restored, 1: Maximized
 
-*#q::
+*#w::
 {
     if (WinGetMinMax("A") = 1) ; If Maximized
         WinRestore "A"         ; Make it normal size

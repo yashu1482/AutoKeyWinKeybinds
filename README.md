@@ -14,9 +14,9 @@ Window Management
 
 2. Win + Space to Quickly switch between Active and Last Active Window
 
-3. Win + W to Toggle Snap windows right
+3. Win + Q to Toggle Snap windows right
 
-4. Win + Q to Toggle Active Window FullScreen 
+4. Win + W to Toggle Active Window FullScreen 
 
 5. Win + E to Exit (Minimize) Active Window
 
