@@ -131,3 +131,7 @@ d::Right
 ; Prevent the Menu Key from opening the right-click menu when you use it as a modifier
 *AppsKey::Return
 
+; 4. --- Add another keybind for broken Question mark key ---
+
+Left::/
++Left::?

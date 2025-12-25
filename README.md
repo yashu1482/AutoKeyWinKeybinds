@@ -32,6 +32,7 @@ Personal Keybinds
 
 - These can be usefull for switching tabs in Browsers and IDE's.
 
+4. Rebind Arrow Left key to ?/ key. (Broken ? key)
 
 If you dont want these custom keybinds, Remove Custom keybind section in Autokey Winkey Rebinds.ahk script.
 
