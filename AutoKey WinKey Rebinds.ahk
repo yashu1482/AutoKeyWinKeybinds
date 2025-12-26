@@ -121,10 +121,10 @@ $#s::Send "^{Tab}"  ; Ctrl + Tab
 
 #HotIf GetKeyState("AppsKey", "P")
 ; WASD = Arrows
-w::Up
-a::Left
-s::Down
-d::Right
+k::Up
+h::Left
+j::Down
+l::Right
 
 #HotIf
 

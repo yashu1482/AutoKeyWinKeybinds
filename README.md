@@ -24,7 +24,7 @@ Window Management
 
 Personal Keybinds 
 
-1. AppsKey + WASD to Arrow Keys
+1. AppsKey + HJKL to Arrow Keys (Vim Style)
 
 2. Win + Z to Scroll Up  and Win + X to Scroll Down
 
