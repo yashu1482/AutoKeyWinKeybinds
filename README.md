@@ -39,6 +39,8 @@ If you dont want these custom keybinds, Remove Custom keybind section in Autokey
 ---
 Optional but recommended
 
+### Automatic AutoKey Startup
+
 you can Copy and Paste this script in windows startup folder so it runs automatically when u log in.
 
 When u login it asks you UAC promt to run as admin.
